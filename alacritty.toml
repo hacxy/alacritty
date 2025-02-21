@@ -1,0 +1,11 @@
+[font]
+size = 16
+bold.family = "JetBrainsMono Nerd Font"
+normal.family = "JetBrainsMono Nerd Font"
+italic.family = "JetBrainsMono Nerd Font"
+
+[window]
+dimensions.columns = 140
+dimensions.lines = 35
+decorations = 'buttonless'
+dynamic_padding = true
