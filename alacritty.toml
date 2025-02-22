@@ -9,3 +9,79 @@ dimensions.columns = 140
 dimensions.lines = 35
 decorations = 'buttonless'
 dynamic_padding = true
+padding = { x = 3, y = 10 }
+
+# [[keyboard.bindings]]
+# chars = "\u001b1"
+# key = "Key1"
+# mods = "Control"
+#
+# [[keyboard.bindings]]
+# chars = "\u001b2"
+# key = "Key2"
+# mods = "Control"
+#
+# [[keyboard.bindings]]
+# chars = "\u001b3"
+# key = "Key3"
+# mods = "Control"
+#
+# [[keyboard.bindings]]
+# chars = "\u001b4"
+# key = "Key4"
+# mods = "Control"
+#
+# [[keyboard.bindings]]
+# chars = "\u001b5"
+# key = "Key5"
+# mods = "Control"
+
+# [[keyboard.bindings]]
+# chars = "\u001b6"
+# key = "Key6"
+# mods = "Control"
+
+[[keyboard.bindings]]
+key = "Key1"
+mods = "Command"
+chars = "\u001b[49;5u"
+
+[[keyboard.bindings]]
+key = "Key2"
+mods = "Command"
+chars = "\u001b[50;5u"
+
+[[keyboard.bindings]]
+key = "Key3"
+mods = "Command"
+chars = "\u001b[51;5u"
+
+[[keyboard.bindings]]
+key = "Key4"
+mods = "Command"
+chars = "\u001b[52;5u"
+
+[[keyboard.bindings]]
+key = "Key5"
+mods = "Command"
+chars = "\u001b[53;5u"
+
+[[keyboard.bindings]]
+key = "Key6"
+mods = "Command"
+chars = "\u001b[54;5u"
+
+[[keyboard.bindings]]
+key = "Key7"
+mods = "Command"
+chars = "\u001b[55;5u"
+
+[[keyboard.bindings]]
+key = "Key8"
+mods = "Command"
+chars = "\u001b[56;5u"
+
+[[keyboard.bindings]]
+key = "Key9"
+mods = "Command"
+chars = "\u001b[57;5u"
