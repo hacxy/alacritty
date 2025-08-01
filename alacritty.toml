@@ -1,8 +1,8 @@
 [font]
-size = 14
-bold.family = "FiraCode Nerd Font"
-normal.family = "FiraCode Nerd Font"
-italic.family = "FiraCode Nerd Font"
+size = 16
+bold.family = "Hack Nerd Font"
+normal.family = "Hack Nerd Font"
+italic.family = "Hack Nerd Font"
 
 [window]
 dimensions.columns = 120
@@ -14,53 +14,53 @@ padding = { x = 0, y = 0 }
 
 [[keyboard.bindings]]
 key = "Key1"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[49;5u"
 
 [[keyboard.bindings]]
 key = "Key2"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[50;5u"
 
 [[keyboard.bindings]]
 key = "Key3"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[51;5u"
 
 [[keyboard.bindings]]
 key = "Key4"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[52;5u"
 
 [[keyboard.bindings]]
 key = "Key5"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[53;5u"
 
 [[keyboard.bindings]]
 key = "Key6"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[54;5u"
 
 [[keyboard.bindings]]
 key = "Key7"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[55;5u"
 
 [[keyboard.bindings]]
 key = "Key8"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[56;5u"
 
 [[keyboard.bindings]]
 key = "Key9"
-mods = "Control"
+mods = "Command"
 chars = "\u001b[57;5u"
 
 
 [[keyboard.bindings]]
 key = 'V'
-mods = "Control"
+mods = "Command"
 action = "Paste"
 
 # [[keyboard.bindings]]
